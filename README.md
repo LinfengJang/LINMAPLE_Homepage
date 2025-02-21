@@ -1,4 +1,4 @@
-<center>Ⓜ️ This is the homepage of LINMAPLE</center>
+# Ⓜ️ This is the homepage of LINMAPLE
 
 ✅ This repository hosts the homepage of LINMAPLE via **Github Pages**
 
